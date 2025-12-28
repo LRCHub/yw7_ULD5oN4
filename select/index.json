@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "プラチナ",
+  "base_artist": "Sano ibuki",
+  "createdAt": "2025-12-28T08:15:21.864861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Platinum (Acoustic Live Version) [プラチナ -acoustic live ver.-]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/01_Platinum_(Acoustic_Live_Version)_[プラチナ_-acoustic_live_ver.-]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Platinum [プラチナ]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/02_Platinum_[プラチナ]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_プラチナ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "坂本 真綾",
+      "has_synced": true,
+      "path": "select/04_プラチナ_坂本_真綾.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/05_プラチナ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "青山美生(C.V.悠木 碧)",
+      "has_synced": true,
+      "path": "select/06_プラチナ_青山美生(C.V.悠木_碧).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "青山美生 (悠木碧)",
+      "has_synced": true,
+      "path": "select/07_プラチナ_青山美生_(悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プラチナ・ソウル",
+      "artist": "カレン (小清水亜美)",
+      "has_synced": true,
+      "path": "select/08_プラチナ・ソウル_カレン_(小清水亜美).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プラチナ・ソウル",
+      "artist": "カレン(小清水亜美)",
+      "has_synced": true,
+      "path": "select/09_プラチナ・ソウル_カレン(小清水亜美).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プラチナ・ソウル [instrumental]",
+      "artist": "カレン(小清水亜美)",
+      "has_synced": false,
+      "path": "select/10_プラチナ・ソウル_[instrumental]_カレン(小清水亜美).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "chum",
+      "has_synced": true,
+      "path": "select/11_プラチナ_chum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/12_プラチナ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/13_プラチナ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Platinum/プラチナ",
+      "artist": "‎Sakamoto Maaya",
+      "has_synced": true,
+      "path": "select/14_Platinum_プラチナ_‎Sakamoto_Maaya.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/15_プラチナ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/16_プラチナ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "プラチナ・サンライズ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/17_プラチナ・サンライズ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "プラチナ without Maaya",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/18_プラチナ_without_Maaya_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "プラチナ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/19_プラチナ_坂本真綾.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラチナ",
+      "artist": "Sano ibuki",
+      "has_synced": false,
+      "path": "select/pl_01_プラチナ_Sano_ibuki.txt"
+    }
+  ]
+}
